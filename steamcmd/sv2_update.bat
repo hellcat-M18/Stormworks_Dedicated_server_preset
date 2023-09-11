@@ -1,0 +1,1 @@
+steamcmd +force_install_dir c:/Stormworks_server/sv2/ +login anonymous +app_update 1247090 +quit

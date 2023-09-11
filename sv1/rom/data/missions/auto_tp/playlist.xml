@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist folder_path="data/missions/auto_tp" file_store="4" name="auto_tp">
+	<locations location_id_counter="2" component_id_counter="3">
+		<locations>
+			<l id="2" tile="data/tiles/island_15.xml" name="CREATIVE BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="1" name="id_1" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_1.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_invulnerable="true">
+						<spawn_transform 00="-0.999764" 02="0.021707" 20="-0.021707" 22="-0.999764" 30="-245.119705" 31="5.139323" 32="78.710869"/>
+						<spawn_bounds>
+							<min x="-0.375" y="-0.375" z="-0.375"/>
+							<max x="0.375" y="1.875" z="0.375"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-0.75"/>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="2" cargo_zone_import_cargo_type="id_2" display_name="hanger" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-259.240295" 31="10.76276" 32="50.773487"/>
+						<spawn_bounds>
+							<min x="-21.588976" y="-6.04305" z="-18.259386"/>
+							<max x="21.588976" y="6.04305" z="18.259386"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="3" cargo_zone_import_cargo_type="id_3" display_name="spawn" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-146.67688" 31="9.659649" 32="-51.645416"/>
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

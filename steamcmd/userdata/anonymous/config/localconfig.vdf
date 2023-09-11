@@ -1,0 +1,105 @@
+"UserLocalConfigStore"
+{
+	"AppInfoChangeNumber"		"20144809"
+	"Software"
+	{
+		"Valve"
+		{
+			"steam"
+			{
+				"apps"
+				{
+					"1247090"
+					{
+						"LastPlayed"		"1691208328"
+					}
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1673793313"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1671198805"
+				}
+			}
+		}
+		"1247091"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1691089502"
+				}
+				"google.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1660964988"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1671198807"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1688132317"
+				}
+			}
+		}
+		"228985"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1673793307"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1671198800"
+				}
+			}
+		}
+		"228988"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1673793309"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1671198802"
+				}
+			}
+		}
+	}
+	"Licenses"
+	{
+		"17906"		"01000000750d0b7691f6c3095e52183391ed6817b4020ba42382eaa2c3f45f34b898c86ce1b004ae0fbf018d9e896d7e6c47a2e1b223afb077b84f5fb3ee7728523ced1b038e7684c42e1ae56681dcbacf7800a4837e4f9f77870158ddb5d6246bc3f392adbbe1a23b004433ed4d29e622a61d301f2d930d5568f94bc8ff40d41e1d54acd50ff0cee5872f782e463775e1d09e72719b2c3d635c5221e6d853ef49dccbaefdc695141939e149aa222bd91b15456cbed555ac9d17e287a18f9cc147186f68aa3524459c4dc82f21cb3c92e9b655e35c5f9faa21ba494bc53139ab19fa3474f3e4a8349b20ae8a8615cdb83431305faa710e8dfcf070243ee1da2d2edfd928b245469d4e3564eb215988c2d74a557f5c9f5473cf69c844d5ad07a97f747f48fb6e4fc8650e9ed36b6ed1597c13bf50ce2a74a64dc961415e1969aaa1dbe4bfba3fa8c2ff0808113c8d25"
+	}
+	"UserAppConfig"
+	{
+		"228980"		"0055736572436f6e6669670001426574614b6579007075626c6963000808"
+	}
+}

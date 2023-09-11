@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist folder_path="data/missions/supply_stations" file_store="4" name="supply stations">
+	<locations location_id_counter="8" component_id_counter="13">
+		<locations>
+			<l id="1" tile="data/tiles/mega_island_5_7.xml" name="MEGA_ISLAND_5_7" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="2" name="id_2" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_2.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="-0.242686" 01="0.021872" 02="0.969858" 10="0.091685" 11="0.995788" 12="0.000486" 20="-0.965762" 21="0.089039" 22="-0.243669" 30="235.27594" 31="43.831657" 32="-249.94606"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="2" tile="data/tiles/mega_island_11_4.xml" name="SAWYER ISLANDS WIND FARM EAST" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="3" name="id_3" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_3.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="0.298731" 02="-0.954337" 20="0.954337" 22="0.298731" 30="-378.406616" 31="8.003028" 32="452.970764"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="3" tile="data/tiles/mega_island_12_6.xml" name="O'NEILL AIRBASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="4" name="id_4" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_4.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="-0.700431" 02="0.713721" 20="-0.713721" 22="-0.700431" 30="105.386139" 31="9.480383" 32="57.773651"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="4" tile="data/tiles/arid_island_7_8.xml" name="ARID_ISLAND_7_8" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="13" name="id_13" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_13.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="-0.409287" 01="0.066923" 02="-0.909948" 10="0.070298" 11="0.996655" 12="0.041681" 20="0.909693" 21="-0.046908" 22="-0.412623" 30="-322.398804" 31="129.2061" 32="-137.487289"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="5" tile="data/tiles/arid_island_9_9.xml" name="ARID_ISLAND_9_9" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="12" name="id_12" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_12.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="-0.999994" 02="-0.003424" 20="0.003424" 22="-0.999994" 30="-352.601074" 31="53.817265" 32="48.65049"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="6" tile="data/tiles/arid_island_12_9.xml" name="ARID_ISLAND_12_9" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="8" name="id_8" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_8.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="0.996493" 01="0.083672" 10="-0.083672" 11="0.996493" 30="368.243195" 31="75.493958" 32="-198.91362"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="7" tile="data/tiles/arid_island_11_8.xml" name="ARID_ISLAND_11_8" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="9" name="id_9" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_9.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="-0.460765" 01="-0.035682" 02="-0.886805" 10="0.108711" 11="0.989398" 12="-0.096294" 20="0.880839" 21="-0.140774" 22="-0.452001" 30="162.736328" 31="69.895508" 32="-351.331604"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="8" tile="data/tiles/arctic_tile_22.xml" name="ARCTIC MAINLAND OUTPOST" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="10" name="id_10" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_10.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_show_on_map="true">
+						<spawn_transform 00="0.335148" 01="-0.024303" 02="0.941852" 10="-0.289977" 11="0.948481" 12="0.127659" 20="-0.896431" 21="-0.3159" 22="0.310835" 30="-26.115194" 31="38.479641" 32="211.403137"/>
+						<spawn_bounds>
+							<min x="-7.375" y="-1.125" z="-3.875"/>
+							<max x="9.125" y="2.125" z="3.125"/>
+						</spawn_bounds>
+						<spawn_local_offset x="-0.875" y="-0.5" z="0.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

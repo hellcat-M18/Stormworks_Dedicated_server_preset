@@ -1,0 +1,140 @@
+
+
+[2023-08-23 07:07:03] [Connecting, 4, 0] [A:1:3279795217:24118] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2023-08-23 07:07:03] [Connecting, 4, 0] [A:1:3279795217:24118] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-23 07:07:03] [Logged Off, 4, 0] [A:1:3279795217:24118] StartAutoReconnect() will start in 30.0 seconds (attempt 5)
+[2023-08-23 07:07:03] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-23 07:07:03] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-23 07:07:33] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-08-23 07:07:33] GetCMListForConnect -- got 6 Netfilter CMs and 74 WebSocket CMs
+[2023-08-23 07:07:33] GetCMListForConnect -- DC 'tyo2' count: 20
+[2023-08-23 07:07:33] GetCMListForConnect -- DC 'tyo1' count: 21
+[2023-08-23 07:07:33] GetCMListForConnect -- DC 'hkg1' count: 23
+[2023-08-23 07:07:33] GetCMListForConnect -- DC 'lax1' count: 16
+[2023-08-23 07:07:33] [Connecting, 4, 0] [A:1:3279795217:24118] CM Directory list says 92% of connections should be websockets, we rolled 21 - using WebSockets as default.
+[2023-08-23 07:07:33] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27023) starting...
+[2023-08-23 07:07:33] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27032) starting...
+[2023-08-23 07:07:33] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27020) starting...
+[2023-08-23 07:07:33] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:27025) starting...
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27023) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:443) starting...
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:443) starting...
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-hkg1.steamserver.net:27033) starting...
+[2023-08-23 07:07:35] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-hkg1.steamserver.net:27034) starting...
+[2023-08-23 07:07:36] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-hkg1.steamserver.net:27034) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:36] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:36] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-hkg1.steamserver.net:27033) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:36] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:36] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext5-hkg1.steamserver.net:443) starting...
+[2023-08-23 07:07:36] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-lax1.steamserver.net:27024) starting...
+[2023-08-23 07:07:37] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-lax1.steamserver.net:27024) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:37] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext5-hkg1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:07:37] [Connecting, 4, 23] [A:1:3279795217:24118] Connect() starting connection (eNetQOSLevelLow, ext2-tyo2.steamserver.net:27023, WebSocket)
+[2023-08-23 07:07:58] [Connecting, 4, 0] [A:1:3279795217:24118] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2023-08-23 07:07:58] [Connecting, 4, 0] [A:1:3279795217:24118] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-23 07:07:58] [Logged Off, 4, 0] [A:1:3279795217:24118] StartAutoReconnect() will start in 280.0 seconds (attempt 6)
+[2023-08-23 07:07:58] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-23 07:07:58] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-23 07:12:38] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-08-23 07:12:38] GetCMListForConnect -- got 11 Netfilter CMs and 69 WebSocket CMs
+[2023-08-23 07:12:38] GetCMListForConnect -- DC 'tyo1' count: 20
+[2023-08-23 07:12:38] GetCMListForConnect -- DC 'tyo2' count: 21
+[2023-08-23 07:12:38] GetCMListForConnect -- DC 'hkg1' count: 24
+[2023-08-23 07:12:38] GetCMListForConnect -- DC 'lax1' count: 15
+[2023-08-23 07:12:38] [Connecting, 4, 0] [A:1:3279795217:24118] CM Directory list says 86% of connections should be websockets, we rolled 37 - using WebSockets as default.
+[2023-08-23 07:12:38] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27023) starting...
+[2023-08-23 07:12:38] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:27025) starting...
+[2023-08-23 07:12:38] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27021) starting...
+[2023-08-23 07:12:38] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:27030) starting...
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27023) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:27030) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27021) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:443) starting...
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:443) starting...
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-hkg1.steamserver.net:27022) starting...
+[2023-08-23 07:12:39] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext3-hkg1.steamserver.net:27037) starting...
+[2023-08-23 07:12:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext3-hkg1.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-hkg1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-hkg1.steamserver.net:443) starting...
+[2023-08-23 07:12:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-lax1.steamserver.net:27030) starting...
+[2023-08-23 07:12:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-lax1.steamserver.net:27030) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-hkg1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:12:41] [Connecting, 4, 27] [A:1:3279795217:24118] Connect() starting connection (eNetQOSLevelLow, ext2-tyo2.steamserver.net:27023, WebSocket)
+[2023-08-23 07:13:02] [Connecting, 4, 0] [A:1:3279795217:24118] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2023-08-23 07:13:02] [Connecting, 4, 0] [A:1:3279795217:24118] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-23 07:13:02] [Logged Off, 4, 0] [A:1:3279795217:24118] StartAutoReconnect() will start in 399.0 seconds (attempt 7)
+[2023-08-23 07:13:02] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-23 07:13:02] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-23 07:19:36] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-23 07:19:36] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-23 07:19:41] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-08-23 07:19:41] GetCMListForConnect -- got 5 Netfilter CMs and 75 WebSocket CMs
+[2023-08-23 07:19:41] GetCMListForConnect -- DC 'tyo2' count: 21
+[2023-08-23 07:19:41] GetCMListForConnect -- DC 'tyo1' count: 20
+[2023-08-23 07:19:41] GetCMListForConnect -- DC 'hkg1' count: 23
+[2023-08-23 07:19:41] GetCMListForConnect -- DC 'lax1' count: 16
+[2023-08-23 07:19:41] [Connecting, 4, 0] [A:1:3279795217:24118] CM Directory list says 93% of connections should be websockets, we rolled 11 - using WebSockets as default.
+[2023-08-23 07:19:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:27035) starting...
+[2023-08-23 07:19:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27023) starting...
+[2023-08-23 07:19:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27025) starting...
+[2023-08-23 07:19:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:443) starting...
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo2.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27023) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27022) starting...
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:443) starting...
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext5-hkg1.steamserver.net:27022) starting...
+[2023-08-23 07:19:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-hkg1.steamserver.net:27038) starting...
+[2023-08-23 07:19:43] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-hkg1.steamserver.net:27038) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:43] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:43] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext5-hkg1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:43] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:43] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext5-hkg1.steamserver.net:443) starting...
+[2023-08-23 07:19:43] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-lax1.steamserver.net:27028) starting...
+[2023-08-23 07:19:44] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-lax1.steamserver.net:27028) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:44] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext5-hkg1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:19:44] [Connecting, 4, 31] [A:1:3279795217:24118] Connect() starting connection (eNetQOSLevelLow, ext1-tyo2.steamserver.net:27035, WebSocket)
+[2023-08-23 07:20:05] [Connecting, 4, 0] [A:1:3279795217:24118] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2023-08-23 07:20:05] [Connecting, 4, 0] [A:1:3279795217:24118] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-23 07:20:05] [Logged Off, 4, 0] [A:1:3279795217:24118] StartAutoReconnect() will start in 275.0 seconds (attempt 8)
+[2023-08-23 07:20:05] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-23 07:20:05] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-23 07:24:40] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-08-23 07:24:40] GetCMListForConnect -- got 13 Netfilter CMs and 66 WebSocket CMs
+[2023-08-23 07:24:40] GetCMListForConnect -- DC 'tyo2' count: 22
+[2023-08-23 07:24:40] GetCMListForConnect -- DC 'tyo1' count: 10
+[2023-08-23 07:24:40] GetCMListForConnect -- DC 'hkg1' count: 25
+[2023-08-23 07:24:40] GetCMListForConnect -- DC 'lax1' count: 22
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] CM Directory list says 83% of connections should be websockets, we rolled 16 - using WebSockets as default.
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27037) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:27020) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27021) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27019) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27037) results: 27.3438ms + load 193.0000
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:27021) results: 31.2500ms + load 151.0000
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:443) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:443) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext1-tyo1.steamserver.net:27019) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext4-hkg1.steamserver.net:27023) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext4-hkg1.steamserver.net:27021) starting...
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:24:40] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext3-hkg1.steamserver.net:443) starting...
+[2023-08-23 07:24:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext4-hkg1.steamserver.net:27023) results: 58.5938ms + load 130.0000
+[2023-08-23 07:24:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-lax1.steamserver.net:27033) starting...
+[2023-08-23 07:24:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext4-hkg1.steamserver.net:27021) results: 66.4063ms + load 141.0000
+[2023-08-23 07:24:41] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-tyo2.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:24:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext3-hkg1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:24:42] [Connecting, 4, 0] [A:1:3279795217:24118] PingWebSocketCM() (ext2-lax1.steamserver.net:27033) failed talking to cm (timeout/neterror - Invalid)
+[2023-08-23 07:24:42] [Connecting, 4, 35] [A:1:3279795217:24118] Connect() starting connection (eNetQOSLevelLow, ext2-tyo2.steamserver.net:27021, WebSocket)
+[2023-08-23 07:24:42] [Connecting, 4, 35] [A:1:3279795217:24118] ConnectionCompleted() (155.133.239.51:27021, WebSocket) local address (49.212.230.164:60638)
+[2023-08-23 07:24:42] [Connecting, 4, 35] [A:1:3279795217:24118] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-23 07:24:42] [Connected, 4, 35] [A:1:3279795217:24118] Logging on [A:1:3279795217:24118]
+[2023-08-23 07:24:42] [Logging On, 4, 35] [A:1:3279795217:24118] RecvMsgClientLogOnResponse() : [A:1:3279795217:24118] 'OK'

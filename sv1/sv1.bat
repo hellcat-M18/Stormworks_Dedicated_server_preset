@@ -1,0 +1,1 @@
+start sv1.exe +server_dir C:/Stormworks_server/sv1/server_config/

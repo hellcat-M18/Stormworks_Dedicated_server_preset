@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server_data port="25506" name="storm public server" seed="6651" save_name="server_data" max_players="32" password="multiplay" day_night_length="60" sunrise="0.25" sunset="0.791" infinite_money="true" infinite_resources="false" unlock_all_islands="true" settings_menu="true" base_island="data/tiles/island_15.xml" settings_menu_lock="false" infinite_batteries="true" infinite_fuel="true" engine_overheating="true" ceasefire="false" infinite_ammo="true" no_clip="true" map_teleport="true" vehicle_spawn="true" photo_mode="true" respawning="true" cleanup_vehicle="true" clear_fow="true" third_person="true" third_person_vehicle="true" vehicle_damage="true" player_damage="false" npc_damage="false" aggressive_animals="false" sea_monsters="false" lightning="false" teleport_vehicle="true" fast_travel="true" auto_refuel="true" starting_currency="20000" despawn_on_leave="false" map_show_players="true" map_show_vehicles="true" show_3d_waypoints="true" show_name_plates="true" override_weather="true" override_time="true" override_wind="true" physics_timestep="180" wildlife_enabled="false" fish_spawn_rate="0" unlock_components="true" dlc_weapons="true" dlc_arid="true">
+	<admins>
+		<id value="76561199222788373"/>
+		<id value="76561199126807662"/>
+		<id value="76561198834000380"/>
+		<id value="76561199055593266"/>
+		<id value="76561198989333803"/>
+	</admins>
+	<authorized>
+
+	</authorized>
+	<blacklist>
+		<id value="76561199373345907"/>
+	</blacklist>
+	<whitelist/>
+	<playlists>
+		<path path="rom/data/missions/creative_env_addon"/>
+		<path path="rom/data/missions/damage numbers"/>
+		<path path="rom/data/missions/speed and height"/>
+		<path path="rom/data/missions/hebi_s target drone"/>
+		<path path="rom/data/missions/modded_railroad_signals"/>
+		<path path="rom/data/missions/FPS"/>
+	</playlists>
+</server_data>
+

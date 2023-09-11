@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist folder_path="data/missions/Target_Drones" file_store="4" name="[Hebis] Target Drones">
+	<locations location_id_counter="10" component_id_counter="24">
+		<locations>
+			<l id="1" tile="data/tiles/island_15.xml" name="CREATIVE BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="1" display_name="Ship_WP2" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="92.906921" 32="-908.68689"/>
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="2" display_name="Ship_WP1" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-589.711548" 32="-868.484131"/>
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="3" display_name="Drone_Target" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-146.124603" 31="5.000002" 32="-286.12027"/>
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="6" cargo_zone_import_cargo_type="id_6" display_name="Static_Weapon_Position" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="-1" 02="-0.000808" 20="0.000808" 22="-1" 30="-176.126251" 31="9.659649" 32="-62.72715"/>
+						<spawn_bounds>
+							<min x="-28.336823" y="-9.947822" z="-28.973831"/>
+							<max x="28.336823" y="9.947822" z="28.973831"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="7" cargo_zone_import_cargo_type="id_7" display_name="Creative_hanger_Spawn" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="-0.001062" 02="-0.999999" 20="0.999999" 22="-0.001062" 30="-264.38385" 31="9.659649" 32="51.464462"/>
+						<spawn_bounds>
+							<min x="-28.336823" y="-9.947822" z="-28.973831"/>
+							<max x="28.336823" y="9.947822" z="28.973831"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="8" cargo_zone_import_cargo_type="id_8" display_name="Static_Weapon_Player_Pos" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="0.01796" 02="-0.999839" 20="0.999839" 22="0.01796" 30="-210.384415" 31="5.386621" 32="-39.677204"/>
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="13" cargo_zone_import_cargo_type="id_13" display_name="Float_Target_Area" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-142.005081" 32="-465.808533"/>
+						<spawn_bounds>
+							<min x="-168.469961" y="-5" z="-84.019859"/>
+							<max x="168.469961" y="5" z="84.019859"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="19" cargo_zone_import_cargo_type="id_19" display_name="Creative_Dock_Spawn" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="-0.999998" 02="0.002232" 20="-0.002232" 22="-0.999998" 30="-228.403519" 31="4.999998" 32="-63.803524"/>
+						<spawn_bounds>
+							<min x="-12.619624" y="-15.073526" z="-29.523524"/>
+							<max x="12.619624" y="15.073526" z="29.523524"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="20" cargo_zone_import_cargo_type="id_7" display_name="hanger_Target_Spawn" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="-0.004708" 02="0.999989" 20="-0.999989" 22="-0.004708" 30="50.084667" 31="9.671097" 32="51.456665"/>
+						<spawn_bounds>
+							<min x="-28.336823" y="-9.947822" z="-28.973831"/>
+							<max x="28.336823" y="9.947822" z="28.973831"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="21" cargo_zone_import_cargo_type="id_21" display_name="Hanger_AI_pos" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-244.448547" 31="5.240659" 32="77.584068"/>
+						<spawn_bounds>
+							<min x="-0.640605" y="-1.765616" z="-0.538981"/>
+							<max x="0.640605" y="1.765616" z="0.538981"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="22" cargo_zone_import_cargo_type="id_21" display_name="Dock_AI_pos" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-213.158722" 31="5.292894" 32="-41.818592"/>
+						<spawn_bounds>
+							<min x="-0.640605" y="-1.765616" z="-0.538981"/>
+							<max x="0.640605" y="1.765616" z="0.538981"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="24" cargo_zone_import_cargo_type="id_19" display_name="dock_Target_Spawn" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 00="0.002629" 02="-0.999997" 20="0.999997" 22="0.002629" 30="-191.675964" 31="5.00002" 32="-916.628052"/>
+						<spawn_bounds>
+							<min x="-12.619624" y="-15.073526" z="-29.523524"/>
+							<max x="12.619624" y="15.073526" z="29.523524"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="7" tile="data/tiles/island_15.xml" name="Spawn_On_Load" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="10" name="id_10" display_name="Drone_Spawner" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_10.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_invulnerable="true">
+						<spawn_transform 00="-0.999996" 02="-0.002811" 20="0.002811" 22="-0.999996" 30="-210.595413" 31="4.192604" 32="-41.799313"/>
+						<spawn_bounds>
+							<min x="-0.625" y="-3.125" z="-0.375"/>
+							<max x="0.625" y="0.875" z="0.625"/>
+						</spawn_bounds>
+						<spawn_local_offset y="1.125" z="-0.125"/>
+						<graph_links/>
+					</c>
+					<c component_type="3" id="14" name="id_14" display_name="AutoTeleportSwitchButtons" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_14.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_invulnerable="true">
+						<spawn_transform 00="-0.999999" 02="0.001733" 20="-0.001733" 22="-0.999999" 30="-245.120972" 31="4.717445" 32="78.496857"/>
+						<spawn_bounds>
+							<min x="-0.625" y="-2.375" z="-0.625"/>
+							<max x="0.375" y="0.375" z="0.375"/>
+						</spawn_bounds>
+						<spawn_local_offset x="0.125" y="1" z="0.125"/>
+						<graph_links/>
+					</c>
+					<c component_type="2" id="16" display_name="Weapon Tester" dynamic_object_type="2" character_outfit_category="5" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-212.284622" 31="5.459649" 32="-41.612682"/>
+						<spawn_bounds>
+							<min x="-0.11" y="-0.8" z="-0.11"/>
+							<max x="0.11" y="0.8" z="0.11"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="3" id="23" name="id_23" display_name="ShipAutoTeleportSwitchButtons" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_23.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_invulnerable="true">
+						<spawn_transform 00="0.004487" 02="-0.99999" 20="0.99999" 22="0.004487" 30="-210.166336" 31="4.78542" 32="-44.68346"/>
+						<spawn_bounds>
+							<min x="-0.625" y="-2.125" z="-0.375"/>
+							<max x="0.125" y="0.375" z="0.375"/>
+						</spawn_bounds>
+						<spawn_local_offset x="0.25" y="0.875"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="2" name="Target_Ship" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="4" name="hebis_target,type=ship" display_name="Target_Ship" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_4.xml" vehicle_file_store="4">
+						<spawn_transform 31="5.769381"/>
+						<spawn_bounds>
+							<min x="-4.125" y="-5.875" z="-32.125"/>
+							<max x="4.125" y="11.125" z="23.625"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-2.625" z="4.25"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="3" name="Target_Drone" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="5" name="hebis_target,type=drone" display_name="Target_Drone" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_5.xml" vehicle_file_store="4">
+						<spawn_bounds>
+							<min x="-2.375" y="-0.375" z="-3.625"/>
+							<max x="2.375" y="1.125" z="2.625"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-0.375" z="0.5"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="4" name="Target_Reflector" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="9" name="hebis_target,type=reflector" display_name="Target_Reflector" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_9.xml" vehicle_file_store="4">
+						<spawn_bounds>
+							<min x="-1.625" y="-2.625" z="-1.625"/>
+							<max x="1.625" y="-0.125" z="1.625"/>
+						</spawn_bounds>
+						<spawn_local_offset y="1.375"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="5" name="Target_SEPTAR" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="11" name="hebis_target,type=ship" display_name="Target_SEPTAR" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_11.xml" vehicle_file_store="4">
+						<spawn_transform 31="1.730351"/>
+						<spawn_bounds>
+							<min x="-1.875" y="-1.875" z="-6.375"/>
+							<max x="1.875" y="3.375" z="7.875"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-0.75" z="-0.75"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="6" name="Float_Target" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="12" name="hebis_target,type=float" display_name="Float_Target" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_12.xml" vehicle_file_store="4">
+						<spawn_transform 00="-0.000606" 02="-1" 20="1" 22="-0.000606" 31="3.043559"/>
+						<spawn_bounds>
+							<min x="-3.625" y="-1.875" z="-7.625"/>
+							<max x="3.625" y="6.125" z="4.625"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-2.125" z="1.5"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="8" name="Target_Torpedo" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="15" name="hebis_target,type=torpedo" display_name="Target_Torpedo" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_15.xml" vehicle_file_store="4">
+						<spawn_transform 31="-8.051306"/>
+						<spawn_bounds>
+							<min x="-0.375" y="-0.375" z="-2.125"/>
+							<max x="0.375" y="0.875" z="3.625"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-0.25" z="-0.75"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="9" name="Target_Plane" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="17" name="hebis_target,type=plane" display_name="Target_Plane" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_17.xml" vehicle_file_store="4">
+						<spawn_bounds>
+							<min x="-5.375" y="-0.875" z="-3.875"/>
+							<max x="5.375" y="2.375" z="4.875"/>
+						</spawn_bounds>
+						<spawn_local_offset y="-0.75" z="-0.5"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="10" name="KeepActiveAnchor" env_mod_spawn_num="1">
+				<components>
+					<c component_type="3" id="18" display_name="KeepActiveAnchor" is_sea_floor_object="true" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_name="data/missions_working/vehicle_18.xml" vehicle_file_store="4" vehicle_is_static="true" vehicle_is_invulnerable="true">
+						<spawn_transform 30="-0.000401" 31="-0.400389" 32="-0.002947"/>
+						<spawn_bounds>
+							<min x="-0.875" y="-3.375" z="-0.875"/>
+							<max x="0.875" y="0.375" z="0.875"/>
+						</spawn_bounds>
+						<spawn_local_offset y="1.5"/>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+

@@ -1,0 +1,47 @@
+"AppState"
+{
+	"appid"		"1247090"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Stormworks_server\\steamcmd\\steamcmd.exe"
+	"name"		"Stormworks Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Stormworks Dedicated Server"
+	"LastUpdated"		"1693640320"
+	"SizeOnDisk"		"1227685785"
+	"StagingSize"		"0"
+	"buildid"		"12078287"
+	"LastOwner"		"76561197965087000"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"3711872"
+	"BytesDownloaded"		"3711872"
+	"BytesToStage"		"106413305"
+	"BytesStaged"		"106413305"
+	"TargetBuildID"		"12078287"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1004"
+		{
+			"manifest"		"4660701598619066954"
+			"size"		"43850712"
+		}
+		"1247091"
+		{
+			"manifest"		"5316833703665950228"
+			"size"		"1183835073"
+		}
+	}
+	"SharedDepots"
+	{
+		"228985"		"228980"
+		"228988"		"228980"
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}
